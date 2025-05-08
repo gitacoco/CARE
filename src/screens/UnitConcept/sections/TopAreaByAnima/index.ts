@@ -1,0 +1,1 @@
+export { TopAreaByAnima } from "./TopAreaByAnima";
